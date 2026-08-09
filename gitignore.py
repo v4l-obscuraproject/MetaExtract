@@ -1,0 +1,30 @@
+# Python bytecode / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Environment variables / secrets
+.env
+
+# macOS junk files
+.DS_Store
+
+# VSCode / VSCodium settings
+.vscode/
+
+# Sphinx docs build output
+docs/build/
+
+# Editor swap/backup files
+*~
+*.swp
